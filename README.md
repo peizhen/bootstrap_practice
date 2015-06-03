@@ -22,8 +22,8 @@
     * xs>768px以下、sm>768~992px、md>992~1200px、lg>1200px以上 (size)
 17. ``<img src="圖片網址" style="width:100%">``
     * style="width:100%"(圖片大小)
-    * ``<div class="row">``(增加可讀性，可加可不加)
-**加間隔**
+    * ``<div class="row">``(增加可讀性，可加可不加)    
+**加間隔**    
     -
       在分欄位後打col-md-offset-1(左右各縮1)
     -
