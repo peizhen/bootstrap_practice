@@ -25,7 +25,7 @@
     * ``<div class="row">``(增加可讀性，可加可不加)
     
 **加間隔**    
-    * 在分欄位後打col-md-offset-1(左右各縮1)    
-    * 視窗拉大後跑位的調整>後面再加最前面的size，然後-0，
+    - 在分欄位後打col-md-offset-1(左右各縮1)    
+    - 視窗拉大後跑位的調整>後面再加最前面的size，然後-0，
       拉大後就可正常     
       EX:``<div class='col-sm-4 col-xs-10 col-xs-offset-1'>``
