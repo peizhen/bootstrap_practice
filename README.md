@@ -14,8 +14,8 @@
     >Getting strat >右邊Basic template
 12. 複製``<!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.2/jquery.min.js">``
-13. 在上面的‵`<body>``下面打‵<div>``
-14. 把後面的‵`</div>``拉至內容的結尾
+13. 在上面的``<body>``下面打``<div>``
+14. 把後面的``</div>``拉至內容的結尾
 15. 上面的‵`<div>``內打class="container"(置中)
-- ‵`<div class="col-md-6 features">‵`(佔滿頁面)
+    - ``<div class="col-md-6 features">``(佔滿頁面)
 
