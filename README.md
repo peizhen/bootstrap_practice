@@ -17,5 +17,8 @@
 13. 在上面的``<body>``下面打``<div>``
 14. 把後面的``</div>``拉至內容的結尾
 15. 上面的``<div>``內打class="container"(置中)
-    *   ``<div class="container-fluid">``(佔滿頁面)
+    * ``<div class="container-fluid">``(佔滿頁面)
+16. ``<div class="col-md-6">``(分欄位)加至`<h1>`上行
+    * xs>768px以下、sm>768~992px、md>992~1200px、lg>1200px以上 (size)
+17. 
 
