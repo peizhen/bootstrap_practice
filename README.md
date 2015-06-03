@@ -12,7 +12,7 @@
       ``下行輸入link後按Tab鍵
 6. 下載bootstrap，將css、fonts、js資料夾拉剛新增的資料夾
 7. 至link那行後面打"css/bootstrap.css"
-8. <body></body>間打<h1>、<p>、<h2>、<p>、<button>、<button>、<h3>、<p>
+8. ``<body></body>``間打<h1>、<p>、<h2>、<p>、<button>、<button>、<h3>、<p>
 9. 開始輸入文字
 10. 在下面</body>上行打<script src="js/bootstrap.js">
 11. 至css bootstra
