@@ -17,5 +17,5 @@
 13. 在上面的``<body>``下面打``<div>``
 14. 把後面的``</div>``拉至內容的結尾
 15. 上面的‵`<div>``內打class="container"(置中)
-    － ``<div class="containe-fluid">``(佔滿頁面)
+    - ``<div class="containe-fluid">``(佔滿頁面)
 
