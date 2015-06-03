@@ -12,3 +12,6 @@
 10. 在下面</body>上行打<script src="js/bootstrap.js">
 11. 至css bootstra
     >Getting strat >右邊Basic template
+12. 複製<!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.2/jquery.min.js">
+13. 
