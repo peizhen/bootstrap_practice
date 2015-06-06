@@ -31,15 +31,29 @@
       EX:``<div class='col-sm-4 col-xs-10 col-xs-offset-1 col-sm-offset-0'>``       
 
 
-18. 先另開一個在css 新增檔案，書main.css >　存檔    
+18. 先另開一個在css 新增檔案，輸入main.css ，然後存檔    
 19.　之後打 `body{    
     　              font-family: "字體";    
                   }` (改字體－網頁：font-family)     
 20. 回至index.html 在分欄位那行裡打features(名稱以對應檔案)
-21. 至components bootstrap選擇圖示後，在至index.html在任一想放的位置打`<i class="~~~~"></i>`
-22. 複製`<title>`下面那行，把後面的bootstrap改main
-23. 在main.css打`.features .glyphicon{    
+21. 在想強調內文前輸入`<p class="lead">` (突顯字)
+22. 至components bootstrap選擇圖示後，在至index.html在任一想放的位置打`<i class="~~~~"></i>`
+23. 複製`<title>`下面那行，把後面的bootstrap改main
+24. 在main.css打`.features .glyphicon{    
                      font-size:32px;    
                      color:res;    
-                    }`  (改圖是大小、顏色)
-24. 
+                    }`  (改圖示大小、顏色)
+25. 在頁面最下做頁角 > 在內文下輸入`<footer class="container-fluid>`
+26. 再至main.css打`footer{     
+                        background-color:顏色
+                        }`    
+27. 後回至index.html將頁角劃分欄位和置中 > 輸入`<div class="col-md-4">`
+					`<div class="container">`
+28. 輸入標題`<h4>link</h4>`      
+    *`<ul class="list-unstyle">`(消除點)
+29. 連結網址 > `<li><a href="網址">Home</a></li>`    
+               `<li>~~~~~~~</li>`       
+               `<li>~~~~~~~</li>`     
+               `</ul>`
+            `</div>`    
+30. 
