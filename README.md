@@ -31,7 +31,7 @@
       EX:``<div class='col-sm-4 col-xs-10 col-xs-offset-1 col-sm-offset-0'>``       
 
 
-#.18. 先另開一個在css 新增檔案，書main.css >　存檔    
+18. 先另開一個在css 新增檔案，書main.css >　存檔    
 19.　之後打 `body{
     　              font-family: "字體";
                   }` (改字體－網頁：font-family)     
