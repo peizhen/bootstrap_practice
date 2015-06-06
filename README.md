@@ -54,6 +54,10 @@
 29. `<li><a href="網址">Home</a></li>`(連結網址)	  
     `<li>~~~~~~~</li>`       
     `<li>~~~~~~~</li>`     
-    `</ul>`	
+    `</ul>`		
     `</div>`    
-30. 
+30. `<buttton type="button" class="btn-lg btn-顏色">分享</button>`(按鈕設定)	
+    * default(白)、primary(藍)、success(綠)、info(淺藍)、warnig(黃)、danger(紅)	
+    * xs、sm、lg (大小)
+31. `<div class="row well">`(well > 內文會有框框)	
+    * 在後面繼續輸入well-xs、sm、lg 可調整大小)
