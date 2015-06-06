@@ -50,10 +50,10 @@
 27. 後回至index.html將頁角劃分欄位和置中 > 輸入`<div class="col-md-4">`
 					`<div class="container">`
 28. 輸入標題`<h4>link</h4>`      
-    *`<ul class="list-unstyle">`(消除點)
+    * `<ul class="list-unstyle">`(消除點)
 29. 連結網址 > `<li><a href="網址">Home</a></li>`    
                `<li>~~~~~~~</li>`       
                `<li>~~~~~~~</li>`     
-               `</ul>`
+               `</ul>`	
             `</div>`    
 30. 
