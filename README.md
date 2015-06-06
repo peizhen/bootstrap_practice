@@ -30,10 +30,10 @@
       拉大後就可正常     
       EX:``<div class='col-sm-4 col-xs-10 col-xs-offset-1 col-sm-offset-0'>``       
 
-18. 先另開一個在css 新增檔案，輸入main.css ，然後存檔    
-19. 之後打`body{	    
-	 font-family: "字體";    
-    	}` (改字體－網頁：font-family)	
+18. 先另開一個在css 新增檔案，輸入main.css ，然後存檔
+19. 之後打`body(a>3){
+    　              font-family: "字體";    
+                  }` (改字體－網頁：font-family)	
 20. 回至index.html 在分欄位那行裡打features(名稱以對應檔案)
 21. 在想強調內文前輸入`<p class="lead">` (突顯字)
 22. 至components bootstrap選擇圖示後，在至index.html在任一想放的位置打`<i class="~~~~"></i>`
