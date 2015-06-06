@@ -30,4 +30,15 @@
       拉大後就可正常     
       EX:``<div class='col-sm-4 col-xs-10 col-xs-offset-1 col-sm-offset-0'>``  
 
-18.
+18. 先另開一個在css 新增檔案，書main.css >　存檔
+19.　之後打 `body{
+    　              font-family: "字體";
+                  }` (改字體－網頁：font-family)     
+20. 回至index.html 在分欄位那行裡打features(名稱以對應檔案)
+21. 至components bootstrap選擇圖示後，在至index.html在任一想放的位置打`<i class="~~~~"></i>`
+22. 複製`<title>`下面那行，把後面的bootstrap改main
+23. 在main.css打`.features .glyphicon{
+                     font-size:32px;
+                     color:res;
+                    }`  (改圖是大小、顏色)
+24. 
