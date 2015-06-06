@@ -20,11 +20,11 @@
     * ``<div class="container-fluid">``(佔滿頁面)
 16. ``<div class="col-md-6">``(分欄位)加至`<h1>`上行
     * xs>768px以下、sm>768~992px、md>992~1200px、lg>1200px以上 (size)
-17. `<img src="圖片網址" style="width:100%">`	
+17. `<img src="圖片網址" style="width:100%">`
     * style="width:100%"(圖片大小)
     * ``<div class="row">``(增加可讀性，可加可不加)
     
-    **加間隔**	
+    **加間隔**
     * 在分欄位後打col-md-offset-1(左右各縮1)     
     * 視窗拉大後跑位的調整>後面再加最前面的size，然後 - 0，
       拉大後就可正常     
