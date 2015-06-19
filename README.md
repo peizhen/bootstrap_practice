@@ -60,7 +60,8 @@
     * xs、sm、lg (大小)
 31. `<div class="row well">`(well > 內文會有框框)	
     * 在後面繼續輸入well-sm、lg 可調整大小
-32. 導覽列：將標題上的`<div class-row>`及`<div class="col-md-12>`刪除    
+32. 導覽列：     
+    將標題上的`<div class-row>`及`<div class="col-md-12>`刪除    
 33. 在標題下輸入     
     `<lu>`		
 	`<li><a href="tickets.html">Tickets</a></i>`		
@@ -69,7 +70,19 @@
     `</lu>`     
 34. 把標題旁的`<h1>``</h1>`改成`<a href="\" class="navbar-brand"> </a>`
 35. 在剛打的`<lu>`內接下輸入 > `<lu class="nav">`      
-    *在後面繼續輸入nav-pills、nav-tabs、navbar-nav navbar=-right (選擇樣式)    
-36. 在標題上的`<div class-"container>`內輸入navbar navbar-default (可變色)		
-    *default(白)、inverse(黑)
-37. 
+    * 在後面繼續輸入nav-pills、nav-tabs、navbar-nav navbar-right (選擇樣式)    
+36. 在標題上的container上行輸入`<div class-"navbar navbar-default">` (可變色)		
+    * default(白)、inverse(黑)
+37. `<div class-"navbar navbar-default">`內接下去輸入		
+    navbar-static-top (無跟隨、無圓角) 或 navbar-fixed-top (跟隨、無圓角)
+    * 若用fixed要設定不蓋到內文至main.css的body中輸入padding-top: 70px;		
+38. 隱藏導覽列:     
+    在`<lu class="nav navbar-nav navbar-right(樣式)">`內輸入collapse navbar-collapse (應用於小螢幕上，將導覽列收起)
+39. 在標題下輸入		
+    `<button type="button" class="navbar-toggle"`
+    `<span type="sr-only">Toggle navigation</span>`
+    `<i class="glyphicon glyphicon-align-justify"></i>` (陽春版的圖示) 		
+  > `<span class="icon-bar"></span>`
+    `<span class="icon-bar"></span>`
+    `<span class="icon-bar"></span>` (較常用)   
+
