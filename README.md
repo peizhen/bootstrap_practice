@@ -79,7 +79,7 @@
 38. 隱藏導覽列:     
     在`<lu class="nav navbar-nav navbar-right(樣式)">`內輸入collapse navbar-collapse (應用於小螢幕上，將導覽列收起)
 39. 在標題下輸入		
-    `<button type="button" class="navbar-toggle"`
+    `<button type="button" class="navbar-toggle"`		
 		`data-toggle="collapse"`				
 		`data-target=".navbar-collapse">` (對應下面`<lu~~~>`使其連結)			
     `<span type="sr-only">Toggle navigation</span>` (小框框出現)		
