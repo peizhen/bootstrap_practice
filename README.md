@@ -80,9 +80,12 @@
     在`<lu class="nav navbar-nav navbar-right(樣式)">`內輸入collapse navbar-collapse (應用於小螢幕上，將導覽列收起)
 39. 在標題下輸入		
     `<button type="button" class="navbar-toggle"`
-    `<span type="sr-only">Toggle navigation</span>`
-    `<i class="glyphicon glyphicon-align-justify"></i>` (陽春版的圖示) 		
-  > `<span class="icon-bar"></span>`
-    `<span class="icon-bar"></span>`
-    `<span class="icon-bar"></span>` (較常用)   
-
+		`data-toggle="collapse"`		
+		`data-target=".navbar-collapse">` (對應下面`<lu~~~>`使其連結)			
+    `<span type="sr-only">Toggle navigation</span>` (小框框出現)		
+    `<i class="glyphicon glyphicon-align-justify"></i>` (陽春版的圖示) 				
+  > `<span class="icon-bar"></span>`		
+    `<span class="icon-bar"></span>`		
+    `<span class="icon-bar"></span>` (較常用)   	
+    `</button>`		
+40. 在標題上輸入`<div class="navbar-header">` (顯示滿版) > `</div>`結束在`</button>`下
