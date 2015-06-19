@@ -56,7 +56,17 @@
     `</ul>`		
     `</div>`    
 30. `<buttton type="button" class="btn-lg btn-顏色">分享</button>`(按鈕設定)	
-    * default(白)、primary(藍)、success(綠)、info(淺藍)、warnig(黃)、danger(紅)	
+    * default(白)、primary(藍)、success(綠)、info(淺藍)、warnig(黃)、danger(紅)	 
     * xs、sm、lg (大小)
 31. `<div class="row well">`(well > 內文會有框框)	
-    * 在後面繼續輸入well-xs、sm、lg 可調整大小)
+    * 在後面繼續輸入well-sm、lg 可調整大小)
+32. 導覽列：將標題上的`<div class-row>`及`<div class="col-md-12>`刪除    
+33. 在標題下輸入     
+    `<lu>`		
+	`<li><a href="tickets.html">Tickets</a></i>`
+	`<li><a href="stations.html">Stations</a></i>`
+	`<li><a href="about.html">About</a></i>`
+    `</lu>`     
+34. 把標題旁的`<h1>``</h1>`改成`<a href="\" class="navbar-brand"> </a>`
+
+
